@@ -1,0 +1,5 @@
+br\com\estoque\service\ControleProdutoService.class
+br\com\estoque\entities\ControleProduto.class
+br\com\estoque\EstoqueApplication.class
+br\com\estoque\entities\Produto.class
+br\com\estoque\service\ValidaValoresService.class

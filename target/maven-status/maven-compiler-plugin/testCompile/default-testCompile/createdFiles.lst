@@ -1,0 +1,3 @@
+br\com\estoque\service\ControleProdutoServiceTest.class
+br\com\estoque\service\ValidaValoresServiceTest.class
+br\com\estoque\EstoqueApplicationTest.class
